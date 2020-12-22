@@ -1,0 +1,3 @@
+TextWindow.Title = "Hello world!"
+TextWindow.ForegroundColor = 10
+TextWindow.WriteLine("Hey world")
