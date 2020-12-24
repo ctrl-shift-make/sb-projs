@@ -10,7 +10,7 @@ The list of my Smol Basic career.
 Yes, I've stooped into madness. :rofl:
 
 Progs:
-hello worlds = 2, Asking names = 1
+hello worlds = 2, Asking names = 1, ai = 1
 
 Credits: Programming - Rocky
 
