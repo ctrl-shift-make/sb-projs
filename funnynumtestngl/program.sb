@@ -1,0 +1,5 @@
+n1 = 69
+n2 = 420
+n3 = n1 + n2
+
+TextWindow.WriteLine("69 (n1) + 420 (n2) = " + n3)
