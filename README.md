@@ -7,7 +7,7 @@ tl;dr: my small basic projects
 
 Long read:
 The list of my Smol Basic career.
-Yes, I've stooped into madness.
+Yes, I've stooped into madness. :rofl:
 
 Progs:
 hello worlds = 2, Asking names = 1
