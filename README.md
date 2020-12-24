@@ -15,3 +15,5 @@ Credits:
 Programming - Rocky
 
 Made with :heart: badge - github.com/Naereen
+
+badge apis for the badges bruh - shields.io
