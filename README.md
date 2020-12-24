@@ -1,7 +1,7 @@
 # sb-projs
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/ctrl-shift-make/) 
-[![ForTheBadge small-basic-denotation](https://img.shields.io/badge/Made%20with-Small%20Basic-orange)](https://smallbasic-publicwebsite.azurewebsites.net/)
+[![small-basic-denotation](https://img.shields.io/badge/Made%20with-Small%20Basic-orange)](https://smallbasic-publicwebsite.azurewebsites.net/)
 
 tl;dr: my small basic projects
 
