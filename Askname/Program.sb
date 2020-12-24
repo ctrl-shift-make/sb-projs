@@ -1,0 +1,3 @@
+TextWindow.Write("Heyo. whadda yo name son? ")
+name = TextWindow.Read()
+TextWindow.WriteLine("Hey, " + name)
