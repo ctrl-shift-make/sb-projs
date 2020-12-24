@@ -19,3 +19,5 @@ Made with :heart: badge - github.com/Naereen (listing), forthebadge.com
 badge shapes for my badges bruh - shields.io
 
 small basic badge - mehhhhhhhhhhhhhhhhhhhh
+
+an awesome lang = Microsoft
