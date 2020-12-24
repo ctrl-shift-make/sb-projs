@@ -12,11 +12,10 @@ Yes, I've stooped into madness.
 Progs:
 hello worlds = 2, Asking names = 1
 
-Credits:
-Programming - Rocky
+Credits: Programming - Rocky
 
 Made with :heart: badge - github.com/Naereen (listing), forthebadge.com
 
-badge apis for the badges bruh - shields.io
+badge shapes for my badges bruh - shields.io
 
 small basic badge - mehhhhhhhhhhhhhhhhhhhh
