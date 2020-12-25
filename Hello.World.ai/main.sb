@@ -1,6 +1,5 @@
-If (Clock.Hour < 12) Then:
+If (Clock.Hour < 12) Then
   TextWindow.WriteLine("Good Mornin, World!")
-ElseIf (Clock.Hour >= 16) Then:
-  TextWindow.WriteLine("Good afternoon, world!")
-ElseIf (Clock.Hour >= 20) Then:
-  TextWindow.WriteLine("Good evening, World!")
+ElseIf (Clock.Hour >= 12) Then
+  TextWindow.WriteLine("Good Evening, world!")
+EndIf
