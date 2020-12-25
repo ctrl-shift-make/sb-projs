@@ -1,0 +1,11 @@
+TextWindow.WriteLine("Numbers Until")
+TextWindow.Write("Enter numbers to be printed until: ")
+inputsuntil = TextWindow.ReadNumber()
+
+i = 1
+start:
+TextWindow.WriteLine(i)
+i = i + 1
+If i < inputsuntil Then
+  Goto start
+EndIf
