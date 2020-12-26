@@ -1,0 +1,5 @@
+'Steps by 2
+
+For i = 1 to 24 Step 2
+  TextWindow.WriteLine(i)
+EndFor
