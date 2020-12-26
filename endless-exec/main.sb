@@ -1,0 +1,10 @@
+begin:
+TextWindow.Write("Enter a number:")
+num = TextWindow.ReadNumber()
+rem = Math.Remainder(2, num)
+If (rem = 0) Then
+  TextWindow.WriteLine("Even")
+Else
+  TextWindow.WriteLine("Odd")
+EndIf
+Goto begin
